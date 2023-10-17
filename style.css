@@ -20,7 +20,7 @@ body{
 }
 
 .picture{
-    background-image: url(/image/leaves.jpg);
+    background-image: url(./image/leaves.jpg);
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
